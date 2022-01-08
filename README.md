@@ -6,7 +6,7 @@
 ![Institute](https://img.shields.io/badge/HENU-ZhangLab-blue)
   
 
-Wrok flow for untargeted metabolomics analysis 
+Work flow for untargeted metabolomics analysis 
 
 **Workflow:** 
 
