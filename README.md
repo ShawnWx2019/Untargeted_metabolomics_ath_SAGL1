@@ -73,7 +73,7 @@ For metaboananlyst, `CD Compound Name` was used as input data.
 
 ## Step5. Compounds in focused pathway validation.
 
-The **rough candidate compounds** in focused pathway were select out from DAM datasets， after screening the inhouse script constructed `Arabidopsis thaliana KEGG compound database`, compounds which belongs to *Arabidopsis thaliana* （according to kegg database）were selec out. The **fine candidate compounds** were double check by Compound discovery software with the MS2 database (mzcloud and mzvalut). Finally High confidencial compounds were ensured. Furthermore, key compounds were evaluated by targeted metabolomic method. The results are highly consistent with our untargeted metabolomic result. It is also proved the accuracy of our untargetd metabolomic workflow.
+The **rough candidate compounds** in focused pathway were select out from DAM datasets， after screening the inhouse script constructed `Arabidopsis thaliana KEGG compound database`, compounds which belongs to *Arabidopsis thaliana* （according to kegg database）were select out. The **fine candidate compounds** were double checked by `Compound discovery` software with the MS2 database (`mzcloud` and `mzvalut`) . Finally High confidencial compounds were ensured. Furthermore, key compounds were evaluated by targeted metabolomic method. The results are highly consistent with our untargeted metabolomic result. It is also proved the accuracy of our untargetd metabolomic workflow.
 
 
 
