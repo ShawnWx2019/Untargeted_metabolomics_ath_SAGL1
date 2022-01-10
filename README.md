@@ -4,9 +4,12 @@
 [![R version](https://img.shields.io/badge/R-v4.1.1-salmon)](https://www.r-project.org)
 [![license](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 ![Institute](https://img.shields.io/badge/HENU-ZhangLab-blue)
+![DOI](https://img.shields.io/badge/DOI-Submit-blue)
   
 
-Work flow for untargeted metabolomics analysis 
+Work flow for untargeted metabolomics analysis.
+
+![](https://shawnmagic-1257599720.cos.ap-chengdu.myqcloud.com/20220110111024.png)
 
 **Workflow:** 
 
@@ -49,7 +52,7 @@ In order to solve this problem, we used a strategy that using a flexible conditi
 
 ## Step1. Remove false positive errors by Pubchem database.  
 
-The compound name was set as the query data to get pubchem cid by[Webchem](https://github.com/ropensci/webchem). Drop the false matched compounds.  
+The compound name was set as the query data to get pubchem cid by [Webchem](https://github.com/ropensci/webchem). Drop the false matched compounds.  
 
 `Molecular Formula`,	`Molecular Weight`,	`InChIKey`,	`IUPACName` and	`ExactMass` of correspond compound was obtained by `webchem`. Compounds which have same molecular formula and bias of molecular weight smaller than 5 were labeled as high identical compounds.  
 
