@@ -4,12 +4,10 @@
 [![R version](https://img.shields.io/badge/R-v4.1.1-salmon)](https://www.r-project.org)
 [![license](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 ![Institute](https://img.shields.io/badge/HENU-ZhangLab-blue)
-![DOI](https://img.shields.io/badge/DOI-Submit-blue)
+![DOI](https://img.shields.io/badge/DOI-Submit-purple)
   
 
 Work flow for untargeted metabolomics analysis.
-
-![](https://shawnmagic-1257599720.cos.ap-chengdu.myqcloud.com/20220110111024.png)
 
 **Workflow:** 
 
