@@ -4,9 +4,13 @@
 [![R version](https://img.shields.io/badge/R-v4.1.1-salmon)](https://www.r-project.org)
 [![license](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 ![Institute](https://img.shields.io/badge/HENU-ZhangLab-blue)
-[![DOI](https://img.shields.io/badge/DOI-https://doi.org/10.1111/nph.18197-purple)](https://doi.org/10.1111/nph.18197)
+[![DOI](https://img.shields.io/badge/DOI-doi:10.1111/nph.18197-purple)](https://doi.org/10.1111/nph.18197)
 
 Work flow for untargeted metabolomics analysis.
+
+**Citation:**
+
+Yu, K., Yang, W., Zhao, B., Wang, L., Zhang, P., Ouyang, Y., Chang, Y., Chen, G., Zhang, J., Wang, S., Wang, X., Wang, P., Wang, W., Roberts, J. A., Jiang, K., Mur, L. A. J., & Zhang, X. (n.d.). The Kelch-F-box protein SMALL AND GLOSSY LEAVES 1 (SAGL1) negatively influences salicylic acid biosynthesis in Arabidopsis thaliana by promoting the turn-over of transcription factor SYSTEMIC ACQUIRED RESISTANCE DEFICIENT 1 (SARD1). New Phytologist. https://doi.org/10.1111/nph.18197
 
 **Workflow:** 
 
